@@ -1,0 +1,20 @@
+body {
+    background-color: lightcyan;
+}
+
+.book-container {
+    width: 80%;
+    height: auto;
+}
+
+td {
+    background-color: beige;
+    border: 1px solid darkgray;
+    text-align: center;
+}
+
+.book-img {
+    position: relative;
+    width: 40px;
+    height: auto;
+}
